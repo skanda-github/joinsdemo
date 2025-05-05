@@ -1,0 +1,11 @@
+### INNER JOIN
+GET http://localhost:8080/api/joins/inner
+
+### LEFT JOIN
+GET http://localhost:8080/api/joins/left
+
+### RIGHT JOIN
+GET http://localhost:8080/api/joins/right
+
+### FULL JOIN
+GET http://localhost:8080/api/joins/full
